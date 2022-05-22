@@ -1,4 +1,4 @@
-# Awesome Appium [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/SrinivasanTarget/awesome-appium.svg?branch=master)](https://travis-ci.org/SrinivasanTarget/awesome-appium)
+# REST Assured Bookmarks [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) 
 
 [<img src="https://avatars3.githubusercontent.com/u/3221291?v=3&s=200" align="right" width="100">](http://appium.io)
 
@@ -76,4 +76,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [Srinivasan Sekar](https://github.com/SrinivasanTarget) has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [Abhijit Biradar](https://github.com/AbhijitBiradar) has waived all copyright and related or neighboring rights to this work.
