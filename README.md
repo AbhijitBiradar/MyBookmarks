@@ -1,8 +1,8 @@
 # REST Assured Bookmarks 
 
-[<img src="https://avatars3.githubusercontent.com/u/3221291?v=3&s=200" align="right" width="100">](http://appium.io)
 
-> A curated list of delightful [Appium](http://appium.io/) [resources](#contents).
+
+> A curated list of delightful [REST Assured](https://rest-assured.io/) [resources](#contents).
 
 Feel free to add links via PRs and file issues to start discussions.
 
