@@ -107,7 +107,7 @@ https://h.markbuild.com/doc/jsonpath-xpath.html
 https://www.javainuse.com/jsonpath
 
 
-##XPath Evalator
+## XPath Evalator
 https://codebeautify.org/Xpath-Tester
 http://xpather.com/
 https://extendsclass.com/xpath-tester.html
