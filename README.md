@@ -77,3 +77,21 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Abhijit Biradar](https://github.com/AbhijitBiradar) has waived all copyright and related or neighboring rights to this work.
+
+
+## Other Important Links
+https://jsonpath.com/
+
+https://www.freeformatter.com/
+
+https://jsoneditoronline.org/#left=local.belinu&right=local.mufubi
+
+https://github.com/json-path/JsonPath
+
+https://goessner.net/articles/JsonPath/
+
+https://support.smartbear.com/readyapi/docs/testing/jsonpath-reference.html
+
+https://www.tutorialspoint.com/online_json_editor.htm
+
+https://geekflare.com/json-online-tools/
