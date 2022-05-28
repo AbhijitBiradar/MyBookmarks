@@ -95,3 +95,25 @@ https://support.smartbear.com/readyapi/docs/testing/jsonpath-reference.html
 https://www.tutorialspoint.com/online_json_editor.htm
 
 https://geekflare.com/json-online-tools/
+
+https://docs.hevodata.com/sources/streaming/rest-api/writing-jsonpath-expressions/
+https://support.smartbear.com/alertsite/docs/monitors/api/endpoint/jsonpath.html
+
+## JSON Path Evalator
+https://jsonpathfinder.com/
+https://codebeautify.org/jsonpath-tester
+https://www.atatus.com/tools/json-path-evaluator
+https://h.markbuild.com/doc/jsonpath-xpath.html
+https://www.javainuse.com/jsonpath
+
+
+##XPath Evalator
+https://codebeautify.org/Xpath-Tester
+http://xpather.com/
+https://extendsclass.com/xpath-tester.html
+https://www.site24x7.com/tools/xpath-evaluator.html
+https://www.webtoolkitonline.com/xml-xpath-tester.html
+https://www.easycodeforall.com/generate-xpath.html
+https://www.utilities-online.info/xpath
+https://xmltoolbox.appspot.com/xpathevaluator.html
+https://punchoutcommerce.com/tools/xpath-tester
