@@ -129,3 +129,102 @@ https://www.utilities-online.info/xpath
 https://xmltoolbox.appspot.com/xpathevaluator.html
 
 https://punchoutcommerce.com/tools/xpath-tester
+
+
+
+## JSON Schema Tutorials
+
+https://restfulapi.net/json-schema/
+
+https://opis.io/json-schema/2.x/structure.html
+
+https://developer.wordpress.org/rest-api/extending-the-rest-api/schema/
+
+https://cswr.github.io/JsonSchema/spec/basic_types/
+
+
+
+## JSON Related
+
+JSON Formatter
+
+https://www.liquid-technologies.com/online-json-formatter
+
+JSON Validator
+
+https://www.liquid-technologies.com/online-json-validator
+
+JSON Validator against (JSON Schema)
+
+https://www.liquid-technologies.com/online-json-schema-validator
+
+
+JSON Schema to JSON Converted
+
+https://www.liquid-technologies.com/online-schema-to-json-converter
+
+
+JSON to JSON Schema Converter
+
+https://www.liquid-technologies.com/online-json-to-schema-converter
+
+https://www.convertsimple.com/convert-json-to-json-schema/
+
+https://www.jsonschema.net/
+
+https://extendsclass.com/json-schema-validator.html
+
+https://jsonformatter.org/json-to-jsonschema
+
+https://codebeautify.org/json-to-json-schema-generator
+
+
+
+
+## XML Related
+
+XML Formator
+
+https://www.liquid-technologies.com/online-xml-formatter
+
+XML Validator
+
+https://www.liquid-technologies.com/online-xml-validator
+
+XML Validation Agaisnt XML Schema
+
+https://www.liquid-technologies.com/online-xsd-validator
+
+XML to XSD (XML Schema) Converter
+
+https://www.liquid-technologies.com/online-xml-to-xsd-converter
+
+XSD (XML Schema) to XML Converter
+
+https://www.liquid-technologies.com/online-xsd-to-xml-converter
+
+
+## Below is very good site for all converters
+
+https://www.convertsimple.com/
+
+https://jsonformatter.org/
+
+https://codebeautify.org/
+
+
+File Converters
+
+https://www.convertsimple.com/file-converters/
+
+Data Converters
+
+https://www.convertsimple.com/data-converters/
+
+Formateres
+
+https://www.convertsimple.com/formatters/
+
+Generators
+
+https://www.convertsimple.com/generators/
