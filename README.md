@@ -228,3 +228,17 @@ https://www.convertsimple.com/formatters/
 Generators
 
 https://www.convertsimple.com/generators/
+
+
+
+## JSON to POJO Converter
+
+https://www.javainuse.com/pojo
+
+https://www.jsonschema2pojo.org/
+
+https://codebeautify.org/json-to-java-converter
+
+https://www.freecodeformat.com/json2pojo.php
+
+http://pojo.sodhanalibrary.com/
